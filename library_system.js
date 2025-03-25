@@ -67,5 +67,5 @@ Title: Book3, Author: Author3, Fine: $0
 
 */
 
-// End of Library system challenge 
+// End of Library rental system challenge 
 
