@@ -1,6 +1,4 @@
-library_rental_system_challenge
-
-Library Book Rental System
+Library Book Rental System 
 
 Scenario:
 A library charges late fees based on how late a book is returned.
